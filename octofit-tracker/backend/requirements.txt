@@ -1,6 +1,3 @@
-# Requisitos para el backend de OctoFit Tracker
-# Basado en la guía de mona-high-school-fitness-tracker.md
-
 django>=3.2
- djangorestframework
+djangorestframework
 pymongo
